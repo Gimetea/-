@@ -7,7 +7,5 @@
 将数据直接放入程序目录下即可运行，当然也可更改程序的文件读取代码运行
 # 收益情况
 ### 小市值核心因子收益情况
-资金曲线
 ![image](https://github.com/Gimetea/-/blob/master/Camera%20Roll/project(08-24)%E8%B5%84%E9%87%91%E6%9B%B2%E7%BA%BF.png)
-收益指标
 ![image](https://github.com/Gimetea/-/blob/master/Camera%20Roll/project(08-24).png)
